@@ -1,0 +1,1 @@
+web: gunicorn huayingyuchuandjangoherokupro.wsgi --log-file -
